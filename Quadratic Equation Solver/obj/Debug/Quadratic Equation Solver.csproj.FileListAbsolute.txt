@@ -1,0 +1,2 @@
+C:\Users\HP\OneDrive\Desktop\Practice\Quadratic Equation Solver\Quadratic Equation Solver\obj\Debug\Quadratic Equation Solver.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Practice\Quadratic Equation Solver\Quadratic Equation Solver\obj\Debug\Quadratic Equation Solver.csproj.CoreCompileInputs.cache
